@@ -9,7 +9,7 @@ A machine learning model to predict housing prices based on various features and
 - Feature engineering and selection
 - Model training and evaluation
 - Price prediction functionality
-
+<!-- 
 ## Technologies Used
 - Python 3.x
 - scikit-learn
@@ -57,4 +57,4 @@ The project uses [describe your dataset here] containing features like:
 Feel free to fork the project and submit pull requests.
 
 ## License
-MIT License
+MIT License -->
